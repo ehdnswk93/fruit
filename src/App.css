@@ -26,6 +26,21 @@
   color: green;
 }
 
+@media all and (min-width: 480px) and (max-width: 767px) {
+  .pd {
+    margin-top: -350px;
+  }
+  .d-1 {
+    padding-top: 50px;
+  }
+}
+
+@media all and (max-width: 479px) {
+  .pd {
+    margin-top: -350px;
+  }
+}
+
 .start {
   transform: scale(0);
 }

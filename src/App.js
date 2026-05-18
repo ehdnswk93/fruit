@@ -243,7 +243,7 @@ function App() {
                                   if (count === 1) {
                                     axios
                                       .get(
-                                        "https://fruite.github.io/prefinal/img/json/veggie2.json",
+                                        " https://ehdnswk93.github.io/fruit/img/json/veggie2.json",
                                         // "./img/json/veggie2.json",
                                       )
                                       .then((result) => {
@@ -257,7 +257,7 @@ function App() {
                                   } else if (count === 2) {
                                     axios
                                       .get(
-                                        "https://fruite.github.io/prefinal/img/json/veggie3.json",
+                                        " https://ehdnswk93.github.io/fruit/img/json/veggie3.json",
                                         // "./img/json/veggie3.json",
                                       )
                                       .then((result) => {
